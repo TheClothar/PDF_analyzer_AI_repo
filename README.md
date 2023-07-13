@@ -2,3 +2,5 @@
 This is a PDF analyzer 
 
 In order to run the latest version of the code download the sentence encoder via the sentence_encoder.sh file
+
+Enter your unique API key in the env.example file.
